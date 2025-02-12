@@ -23,7 +23,7 @@ export OF_QUICK_BACKUP_LIST="/boot"
 export OF_DEFAULT_TIMEZONE="IST-5:30"  
 export FOX_USE_DATA_RECOVERY_FOR_SETTINGS=1
 export FOX_DELETE_AROMAFM=1
-export OF_MAINTAINER="爱•|ᴘᴀɪɴ👑"
+export OF_MAINTAINER="Pain💀"
 
 # Extras
 export FOX_USE_BASH_SHELL=1
