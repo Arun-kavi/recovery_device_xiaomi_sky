@@ -1,0 +1,29 @@
+SHRP_DEVICE_CODE := psyche
+SHRP_PATH := device/xiaomi/$(SHRP_DEVICE_CODE)
+SHRP_MAINTAINER := stuart
+
+SHRP_REC_TYPE := Normal
+SHRP_DEVICE_TYPE := A/B
+SHRP_AB := true
+
+# SHRP_REC := 
+SHRP_HAS_RECOVERY_PARTITION := false
+
+SHRP_EDL_MODE := 1
+SHRP_INTERNAL := /sdcard
+
+# phone type
+SHRP_NOTCH := false
+# SHRP_EXPRESS := true
+# SHRP_EXPRESS_USE_DATA := true
+
+# paddings
+SHRP_STATUSBAR_RIGHT_PADDING := 80
+SHRP_STATUSBAR_LEFT_PADDING := 80
+
+# theme
+SHRP_EXPRESS := true
+SHRP_DARK := false
+
+# magisk
+SHRP_EXCLUDE_MAGISK_FLASH := true
